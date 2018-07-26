@@ -1,0 +1,5 @@
+D:\twoxzi\WorkSpace\Projects\Self\Els_kom\Els.KOM.Stage\obj\Debug\Els.KOM.Stage.csprojResolveAssemblyReference.cache
+D:\twoxzi\WorkSpace\Projects\Self\Els_kom\Els.KOM.Stage\bin\Debug\Els.KOM.Stage.dll
+D:\twoxzi\WorkSpace\Projects\Self\Els_kom\Els.KOM.Stage\bin\Debug\Els.KOM.Stage.pdb
+D:\twoxzi\WorkSpace\Projects\Self\Els_kom\Els.KOM.Stage\obj\Debug\Els.KOM.Stage.dll
+D:\twoxzi\WorkSpace\Projects\Self\Els_kom\Els.KOM.Stage\obj\Debug\Els.KOM.Stage.pdb

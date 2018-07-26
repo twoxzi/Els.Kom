@@ -1,0 +1,13 @@
+D:\twoxzi\WorkSpace\Projects\Self\Els_kom\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+D:\twoxzi\WorkSpace\Projects\Self\Els_kom\UnitTestProject\bin\Debug\UnitTestProject.dll
+D:\twoxzi\WorkSpace\Projects\Self\Els_kom\UnitTestProject\bin\Debug\UnitTestProject.pdb
+D:\twoxzi\WorkSpace\Projects\Self\Els_kom\UnitTestProject\bin\Debug\Els.KOM.Stage.dll
+D:\twoxzi\WorkSpace\Projects\Self\Els_kom\UnitTestProject\bin\Debug\Els.KOM.Stage.PuppetV3.dll
+D:\twoxzi\WorkSpace\Projects\Self\Els_kom\UnitTestProject\bin\Debug\Els.KOM.Stage.PuppetV4.dll
+D:\twoxzi\WorkSpace\Projects\Self\Els_kom\UnitTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\twoxzi\WorkSpace\Projects\Self\Els_kom\UnitTestProject\bin\Debug\Els.KOM.Stage.PuppetV3.pdb
+D:\twoxzi\WorkSpace\Projects\Self\Els_kom\UnitTestProject\bin\Debug\Els.KOM.Stage.PuppetV4.pdb
+D:\twoxzi\WorkSpace\Projects\Self\Els_kom\UnitTestProject\bin\Debug\Els.KOM.Stage.pdb
+D:\twoxzi\WorkSpace\Projects\Self\Els_kom\UnitTestProject\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\twoxzi\WorkSpace\Projects\Self\Els_kom\UnitTestProject\obj\Debug\UnitTestProject.dll
+D:\twoxzi\WorkSpace\Projects\Self\Els_kom\UnitTestProject\obj\Debug\UnitTestProject.pdb

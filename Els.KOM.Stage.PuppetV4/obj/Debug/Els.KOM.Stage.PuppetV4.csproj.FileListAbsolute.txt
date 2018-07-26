@@ -1,0 +1,7 @@
+D:\twoxzi\WorkSpace\Projects\Self\Els_kom\Els.KOM.Stage.PuppetV4\obj\Debug\Els.KOM.Stage.PuppetV4.csprojResolveAssemblyReference.cache
+D:\twoxzi\WorkSpace\Projects\Self\Els_kom\Els.KOM.Stage.PuppetV4\bin\Debug\Els.KOM.Stage.PuppetV4.dll
+D:\twoxzi\WorkSpace\Projects\Self\Els_kom\Els.KOM.Stage.PuppetV4\bin\Debug\Els.KOM.Stage.PuppetV4.pdb
+D:\twoxzi\WorkSpace\Projects\Self\Els_kom\Els.KOM.Stage.PuppetV4\bin\Debug\Els.KOM.Stage.dll
+D:\twoxzi\WorkSpace\Projects\Self\Els_kom\Els.KOM.Stage.PuppetV4\bin\Debug\Els.KOM.Stage.pdb
+D:\twoxzi\WorkSpace\Projects\Self\Els_kom\Els.KOM.Stage.PuppetV4\obj\Debug\Els.KOM.Stage.PuppetV4.dll
+D:\twoxzi\WorkSpace\Projects\Self\Els_kom\Els.KOM.Stage.PuppetV4\obj\Debug\Els.KOM.Stage.PuppetV4.pdb
